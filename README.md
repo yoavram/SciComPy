@@ -28,7 +28,7 @@ Book:
 1. [Differential equations](https://github.com/yoavram/Py4Eng/blob/master/sessions/differential-equations.ipynb): ordinary, partial, stochastic
 1. [GLM 1](https://github.com/yoavram/Deep4Devs/blob/master/sessions/linear-model.ipynb): linear and poisson regression (NumPy, SciPy, Statsmodels, Scikit-learn)
 1. GLM 2: [binomial](https://github.com/yoavram/Deep4Devs/blob/master/sessions/logistic-model.ipynb) and [multinomial](https://github.com/yoavram/Deep4Devs/blob/master/sessions/softmax-model.ipynb) classification (NumPy, SciPy, Statsmodels, Scikit-learn)
-1. NN1: [feed forward networks](https://github.com/yoavram/Deep4Devs/blob/master/sessions/FFN.ipynb), [convolutional neural networks](https://github.com/yoavram/Deep4Devs/blob/master/sessions/CNN.ipynb) (NumPy, SciPy, AutoGrad, Keras [1](https://github.com/yoavram/Deep4Devs/blob/master/sessions/TF_CNN.ipynb) [2](https://github.com/yoavram/Deep4Devs/blob/bluevine/sessions/K_FFN.ipynb))
+1. NN1: [feed forward networks](https://github.com/yoavram/Deep4Devs/blob/master/sessions/FFN.ipynb), [convolutional neural networks](https://github.com/yoavram/Deep4Devs/blob/master/sessions/CNN.ipynb) (NumPy, SciPy, AutoGrad, Keras [1](https://github.com/yoavram/Deep4Devs/blob/master/sessions/TF_CNN.ipynb), [2](https://github.com/yoavram/Deep4Devs/blob/bluevine/sessions/K_FFN.ipynb))
 1. NN2: [generative models](https://github.com/yoavram/Deep4Devs/blob/master/sessions/GAN.ipynb), [reinforcement learning](https://github.com/yoavram/Deep4Devs/blob/master/sessions/reinforcement.ipynb)
 1. Networks
 1. [Optimization](https://github.com/yoavram/Py4Eng/blob/master/sessions/optimization.ipynb) (minimization)
