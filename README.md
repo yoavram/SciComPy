@@ -40,6 +40,14 @@ Book:
 - coding: [Optimality properties of a proposed precursor to the genetic code
 ](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.80.032901)
 
+## Course management
+
+- [Github classroom](http://classroom.github.com)
+- https://github.com/jfiksel/github-classroom-for-teachers
+- https://github.com/jfiksel/github-classroom-for-students
+- https://github.com/danwallach/travis-activate
+- https://github.com/jfiksel/mass_clone
+
 ## License
 
 Content of this repository is distributed under the CC-BY-SA 4.0 license.
