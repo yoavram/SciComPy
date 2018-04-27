@@ -48,6 +48,17 @@ Book:
 - https://github.com/danwallach/travis-activate
 - https://github.com/jfiksel/mass_clone
 
+## Computing resources
+### Jupyter
+
+- [Crestle](http://crestle.com)
+- [Azure notebooks](http://notebooks.azure.com)
+- [Google Colaboratory](http://colab.research.google.com)
+
+### HPC
+
+- [Google Cloud grant](https://cloud.google.com/edu/); [FAQ](https://lp.google-mkto.com/CloudEduGrants_IntlFAQ.html)
+
 ## License
 
 Content of this repository is distributed under the CC-BY-SA 4.0 license.
