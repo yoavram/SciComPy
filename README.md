@@ -57,7 +57,9 @@ Book:
 
 ### HPC
 
-- [Google Cloud grant](https://cloud.google.com/edu/); [FAQ](https://lp.google-mkto.com/CloudEduGrants_IntlFAQ.html)
+- [Google Cloud grant](https://cloud.google.com/edu/); [FAQ](https://lp.google-mkto.com/CloudEduGrants_IntlFAQ.html) (50$ per student)
+- [AWS Educate](https://aws.amazon.com/education/awseducate/) (IDC is a member institution: $200 per educator, $75-100 per student)
+- MS Azure $100-200 student free account
 
 ## License
 
