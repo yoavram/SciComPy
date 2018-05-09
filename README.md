@@ -20,7 +20,8 @@ Book:
 ## Classes
 
 1. Reintroduction to Python
-1. Data analysis and visualization: [NumPy](notebooks/numpy.ipynb), [Matplotlib](notebooks/matplotlib.ipynb), [Pandas, Seaborn](notebooks/pandas-seaborn.ipynb) ([see also](https://github.com/Py4Life/TAU2015/blob/master/lecture7.ipynb))
+1. Data analysis and visualization 1: [NumPy](notebooks/numpy.ipynb), [Matplotlib](notebooks/matplotlib.ipynb)
+1. Data analysis and visualization 2: [Pandas, Seaborn](notebooks/pandas-seaborn.ipynb)
 1. [Statistics](https://github.com/yoavram/Py4Eng/blob/master/sessions/statistics.ipynb): hypothesis testing, correlations, estimating distributions
 1. [Population growth](notebooks/population-growth.ipynb): exponential, logistic and other models; linear regression and non-linear curve fitting
 1. [Population genetics](notebooks/population-genetics.ipynb): deterministic and stochastic discrete time models; simulations; diffusion equation approximations
