@@ -19,13 +19,13 @@ Book:
 
 ## Classes
 
-1. Reintroduction to Python: [memory model](https://github.com/yoavram/Py4Eng/blob/master/sessions/memory-model.ipynb), [OOP](https://github.com/yoavram/Py4Eng/blob/master/sessions/oop.ipynb), [iteration](https://github.com/yoavram/Py4Eng/blob/master/sessions/iteration.ipynb), [concurrency](https://github.com/yoavram/Py4Eng/blob/master/sessions/concurrency.ipynb)
-1. Data analysis and visualization: [NumPy](https://github.com/yoavram/Py4Eng/blob/master/sessions/numpy.ipynb), [Matplotlib](https://github.com/yoavram/Py4Eng/blob/master/sessions/matplotlib.ipynb), [Pandas, Seaborn](https://github.com/yoavram/Py4Eng/blob/master/sessions/pandas-seaborn.ipynb) ([see also](https://github.com/Py4Life/TAU2015/blob/master/lecture7.ipynb))
+1. Reintroduction to Python
+1. Data analysis and visualization: [NumPy](notebooks/numpy.ipynb), [Matplotlib](notebooks/matplotlib.ipynb), [Pandas, Seaborn](notebooks/pandas-seaborn.ipynb) ([see also](https://github.com/Py4Life/TAU2015/blob/master/lecture7.ipynb))
 1. [Statistics](https://github.com/yoavram/Py4Eng/blob/master/sessions/statistics.ipynb): hypothesis testing, correlations, estimating distributions
-1. [Population dynamics](https://github.com/yoavram/Py4Eng/blob/master/sessions/curve-fitting.ipynb): exponential, logistic and other models; curve fitting ([see also](https://github.com/Py4Life/TAU2015/blob/master/lecture10.ipynb))
-1. [Evolutionary dynamics](https://github.com/yoavram/PyConIL2016): the Wright-Fisher model
+1. [Population growth](notebooks/population-growth.ipynb): exponential, logistic and other models; linear regression and non-linear curve fitting
+1. [Population genetics](notebooks/population-genetics.ipynb): deterministic and stochastic discrete time models; simulations; diffusion equation approximations
+1. [Lotka-Volterra models](notebooks/lotka-volterra.ipynb): deterministic continuous time models of species interactions; ODEs, numerical integration, automatic differentiation, stability analysis
 1. [Stochastic processes](https://github.com/yoavram/Py4Eng/blob/master/sessions/probability.ipynb) ([see also](https://github.com/Py4Life/TAU2015/blob/master/lecture8.ipynb))
-1. [Differential equations](https://github.com/yoavram/Py4Eng/blob/master/sessions/differential-equations.ipynb): ordinary, partial, stochastic
 1. [GLM 1](https://github.com/yoavram/Deep4Devs/blob/master/sessions/linear-model.ipynb): linear and poisson regression (NumPy, SciPy, Statsmodels, Scikit-learn)
 1. GLM 2: [binomial](https://github.com/yoavram/Deep4Devs/blob/master/sessions/logistic-model.ipynb) and [multinomial](https://github.com/yoavram/Deep4Devs/blob/master/sessions/softmax-model.ipynb) classification (NumPy, SciPy, Statsmodels, Scikit-learn)
 1. NN1: [feed forward networks](https://github.com/yoavram/Deep4Devs/blob/master/sessions/FFN.ipynb), [convolutional neural networks](https://github.com/yoavram/Deep4Devs/blob/master/sessions/CNN.ipynb) (NumPy, SciPy, AutoGrad, Keras [1](https://github.com/yoavram/Deep4Devs/blob/master/sessions/TF_CNN.ipynb), [2](https://github.com/yoavram/Deep4Devs/blob/bluevine/sessions/K_FFN.ipynb))
@@ -37,8 +37,7 @@ Book:
 
 ## Examples
 
-- coding: [Optimality properties of a proposed precursor to the genetic code
-](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.80.032901)
+- coding: [Optimality properties of a proposed precursor to the genetic code](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.80.032901)
 
 ## Course management
 
