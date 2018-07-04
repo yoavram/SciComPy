@@ -1,5 +1,5 @@
-# Computational Science with Python
-## An introduction to computational science with the Python programming language for computer science students
+# Scientific Computing with Python
+## An introduction to scientific computing with Python with the Python programming language for computer science students
 
 ## Syllabus
 Python is one of the leading programming languages for scientific
