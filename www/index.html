@@ -8,45 +8,74 @@
   <title>IDC Herzlyia | Scientific Computing with Python</title>
 
   <!-- bootstrap -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
   <!-- Font Awesome -->
-  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 
   <!-- Google fonts -->
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
 
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
 
-  <div class="header">
-    <a href="http://idc.ac.il/">
-      <img src="img/idc-logo.png" class="brand-left">
-    </a>
-    <a href="http://python.org/">
-      <img src="img/python-logo.svg" class="brand-right">
-    </a>   
-    <h1>Scientific Computing with Python</h1>
-    <div class='text-center'>
-      <h3>Autumn 2018</h3>
-    </div>
-  <!-- <div class='text-center'>
-    <h5>
-      Previous Years:
-      <a href=''>[Winter 2015]</a>
-      <a href=''>[Wintersi 2016]</a>
-      <a href=''>[Spring 2017]</a>
-    </h5>
-  </div> -->
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <a href="http://idc.ac.il/" class="navbar-brand d-none d-sm-block">
+      <img src="img/idc-logo.png"  height="30" alt="">
+      </a>
+    <a class="navbar-brand mb-0 h1" href="#">
+  Scientific Computing with Python
+</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+         <span class="navbar-text">
+    Autumn 2018
+  </span>
+  
+    <ul class="navbar-nav mr-auto ">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">
+          <i class="far fa-home fa-fw" aria-hidden="true"></i>
+          Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="calendar.html" class="nav-link">
+          <i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>
+          Calendar 
+      </a> 
+      </li>
+      <li class="nav-item">
+        <a href="assignments.html" class="nav-link">
+          <i class="far fa-file-code fa-fw" aria-hidden="true"></i>
+          Assignments 
+      </a>
+    </li>
+    <li class="nav-item">
+<a href="project.html" class="nav-link">
+  <i class="fas fa-project-diagram fa-fw" aria-hidden="true"></i>
+  Project 
+  </a>
+</li
+    <li class="nav-item">
+ <a href="http://github.com/yoavram/SciComPy/" class="nav-link" target="_blank">
+  <i class="fab fa-github fa-fw" aria-hidden="true"></i>
+  Course repo 
+  </a> 
+</li>
+ </ul>
 </div>
+</nav>
+
 
 <div class="sechighlight">
   <div class="container sec">
     <div class="row">
-      <div class="col-sm-3">
+      <div class="col-3 d-none d-sm-block">
         <h2>Instructor</h2>
         <div class="instructor">
           <a href="http://www.yoavram.com" target="_blank">
@@ -58,7 +87,7 @@
           <br>
         </div>
       </div>
-      <div class="col-sm-9">
+      <div class="col-9">
         <h2>Course Description</h2>
 
         <div id="coursedesc">
@@ -66,11 +95,16 @@
             Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. <br>
             Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model the spread of infectious diseases, find stationary points for a predator-prey equation system, identify an object in an image, calculate the extinction probability of a rare mutation, analyze results of a tennis game, and plot a map of hurricane density.
           </p>
-          <p>
-            The course will be taught in <strong>English</strong>.
+          <p class="d-sm-none">
+            <strong>Instructor:</strong> <a href="http://www.yoavram.com">Yoav Ram</a>
           </p>
           <p>
+            <strong>Language:</strong> The course will be taught in <strong>English</strong>.
+          </p>
+          <p>
+            <strong>Environment:</strong>
             The course will be given using interactive <a href="http://jupyter.org">Jupyter notebooks</a> with built-in exercises and problems.
+            Students can work in the cloud or on their own computer.
           </p>  
         </div>
       </div>
@@ -78,58 +112,39 @@
   </div>
 </div>
 
-<div style="text-align:center; padding:40px 0px 10px 0px;">
-  <a href="calendar.html" class="btn btn-warning btn-lg btn-course">Calendar <i class="fa fa-clipboard fa-fw" aria-hidden="true"></i>
-  </a> 
-  <a href="assignments.html" class="btn btn-primary btn-lg btn-course">Assignments <i class="fa fa-code fa-fw" aria-hidden="true"></i>
-  </a>
-    <a href="http://github.com/yoavram/SciComPy/" class="btn btn-success btn-lg btn-course" target="_blank">Course repo <i class="fa fa-github-alt fa-fw" aria-hidden="true"></i>
-  </a> 
-</div>
-<div style="text-align:center; padding:10px 0px 40px 0px;">
-  <!-- <a href="https://">
-    <button type="button" class="btn btn-primary btn-lg">
-      2018 Lecture Videos <br> (IDC Students Only)
-    </button>
-  </a> -->  
-</div>
-</div>
-
-<div class="sechighlight">
   <div class="container sec">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-4">
         <h2>Class Time and Location</h2>
         Autumn semester (October 2018 - February 2019).<br>
         Lecture: Sunday 15:45-18:15<br>
         Location TBD
       </div>
-      <div class="col-md-4">
+      <div class="col-4">
         <h2>Office Hours</h2>
         TBD
       </div>
-      <div class="col-md-4">
+      <div class="col-4">
         <h2>Grading Policy</h2>
         <a href="assignments.html">Assignments</a>: 40%<br>
         <a href="project.html">Final Project</a>: 60%<br>
       </div>
     </div>
   </div>
-</div>
 
 <div class="container sec">
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-4">
       <h2>Course Discussions</h2>
       Please use the course forum at <a href="http://piazza.com/xxx">Piazza</a>
       <!-- <br>
         Our Twitter account: <a href="https://twitter.com/">@</a> -->
       </div>
-      <div class="col-md-4">
+      <div class="col-4">
         <h2>Course book</h2>
         <a href="http://ipython-books.github.io/">IPython Interactive Computing and Visualization Cookbook</a> by <a href="http://cyrille.rossant.net/">Cyrille Rossant</a>      
       </div>
-      <div class="col-md-4">
+      <div class="col-4">
         <h2>Laptops</h2>
         If you can, please bring your laptop and interact with the course notebooks during the class.
       </div>
@@ -138,6 +153,8 @@
 
   <div class="sechighlight">
     <div class="container sec">
+        <div class="row">
+    <div class="col-12">
       <h2>Prerequisites</h2>
       <ul>
         <li><span class="spanh">Programming skills</span><br>All class lectures and assignments will be in Python and use the Python scientific stack.
@@ -146,9 +163,13 @@
         <li><span class="spanh">Basic Probability and Statistics</span><br>You should know basics of probabilities, gaussian distributions, mean, standard deviation, etc.</li>
       </ul>
     </div>
+    </div>
+    </div>
   </div>
 
   <div class="container sec">
+    <div class="row">
+    <div class="col-12">
     <h2>FAQ</h2>  
     <div class="qqa">
       <div class="qq">Can I audit or sit in?</div>
@@ -167,17 +188,18 @@
       <div class="qa"> Yes, you may; however before doing so you must receive permission from the instructors of both courses.</div>
     </div>
   </div>
+</div>
+</div>
 
   <footer>
     <div class="container">
       <p class="copyright text-muted small">
         This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
           Creative Commons Attribution-ShareAlike 4.0 International License
-          <i class="fae fae-cc-by"></i> <i class="fae fae-cc-sa"></i>
         </a>
       </p>
       <p class="copyright text-muted small">
-        Copyright <i class="fa fa-copyright"></i> <a href="http://www.yoavram.com">Yoav Ram</a> 2018
+        Copyright <i class="far fa-copyright"></i> <a href="http://www.yoavram.com">Yoav Ram</a> 2018
       </p>
       <p class="copyright small">
         Small is beautiful, but simple ain't easy
@@ -186,8 +208,9 @@
   </footer>
 
   <!-- jQuery and Boostrap -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
 </body>
 
 </html>

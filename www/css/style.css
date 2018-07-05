@@ -15,6 +15,10 @@ body {
   color: #f4f3f3;
   text-decoration: none;
 }
+.navbar {
+  background-color: #082A4F;
+  color: #f4f3f3;
+}
 h1 {
   font-size: 30px;
   font-weight: 300;
@@ -53,7 +57,7 @@ h2 {
 }
 .sec {
   margin-bottom: 10px;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 20px;
 }
 .tt {
@@ -150,4 +154,7 @@ p.copyright {
 
 .btn-course {
   margin-right: 50px;
+}
+.btn-div {
+  padding:40px 0px 40px 20px;
 }

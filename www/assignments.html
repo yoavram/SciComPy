@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IDC Herzlyia | Scientific Computing with Python</title>
+
+  <!-- bootstrap -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+
+  <!-- Google fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <a href="http://idc.ac.il/" class="navbar-brand d-none d-sm-block">
+      <img src="img/idc-logo.png"  height="30" alt="">
+      </a>
+    <a class="navbar-brand mb-0 h1" href="#">
+  Scientific Computing with Python
+</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+         <span class="navbar-text">
+    Autumn 2018
+  </span>
+  
+    <ul class="navbar-nav mr-auto ">
+      <li class="nav-item">
+        <a class="nav-link" href="#">
+          <i class="far fa-home fa-fw" aria-hidden="true"></i>
+          Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="calendar.html" class="nav-link">
+          <i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>
+          Calendar 
+      </a> 
+      </li>
+      <li class="nav-item active">
+        <a href="assignments.html" class="nav-link">
+          <i class="far fa-file-code fa-fw" aria-hidden="true"></i>
+          Assignments <span class="sr-only">(current)</span>
+      </a>
+    </li>
+    <li class="nav-item">
+<a href="project.html" class="nav-link">
+  <i class="fas fa-project-diagram fa-fw" aria-hidden="true"></i>
+  Project 
+  </a>
+</li
+    <li class="nav-item">
+ <a href="http://github.com/yoavram/SciComPy/" class="nav-link" target="_blank">
+  <i class="fab fa-github fa-fw" aria-hidden="true"></i>
+  Course repo 
+  </a> 
+</li>
+ </ul>
+</div>
+</nav>
+
+<div class="sechighlight">
+<div class="container sec">
+  <h2 class="text">Assignments</h2>
+</div>
+</div>
+
+<div class="container sec">
+  <h3>Grades</h3>
+  <ul>
+    
+  <li>
+    The final assignments grade will be the average of the 4 best grades out of the 5 assignments:<br>
+    <code>assignments_grade = sum(sorted(grades)[1:]) / 4</code>.
+  </li>
+  <li>
+    The final assignments grade will determine 40% of the course grade:<br>
+    <code>final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)</code>
+  </li>
+  <li>
+    Specifically, you can submit only 4 assignments and still get the maximum 40 points.
+  </li>
+  <li>
+    Assignment grades will ve contained in <code>[20 * k for k in range(0, 6)]</code>.
+  </li>
+  <li>
+    To challenge assignment grades please visit the office hours.
+  </li>
+</div>
+
+<div class="sechighlight">
+<div class="container sec">
+  <h3>Deadlines</h3>
+  <p>
+  The assignments are due Saturdays at 23:59.
+  The due dates for all assignments are on the <a href="calendar.html">calendar</a> page.
+  </p>
+
+<h4>Late Policy:</h4>
+<ul>
+  <li>All students have 4 free late days for the semester.</li>
+  <li>You may not submit assignments after exausting these late days.</li>
+  <li>You may use up to 2 late days per assignment.</li>
+  <li>Assignments may not be submitted more than 2 days late.</li>
+  <li>Exceptions: reserve duty, pregnancy, illness, family affairs.</li>
+  <li>You may not use late days for the final project.</li>
+</ul>
+</div>
+</div>
+
+<div class="container sec">
+  <h3>Submission intructions</h3>
+  You will submit the assignments electronically through <a href="https://gradescope.com/">GitHub</a>.
+  <br>
+  <strong>Do not email</strong> us your assignments.
+</div>
+
+<div class="sechighlight">
+<div class="container sec">
+  <h3>Collaboration Policy</h3>
+  <ul>
+    <li>
+      We expect students to understand and complete
+      their own assignments and to submit one assignment per student.
+    </li>
+    <li>
+      You <strong>may</strong> discuss the assignment with other students.
+    </li>
+    <li>
+      You <strong>may not</strong> share assignment code with other students.
+    </li>
+    <li>
+      You <strong>may not</strong> write assignment code together with other students.
+    </li>
+  </ul>
+</div>
+</div>
+
+<div class="container sec">
+  <h3>Assignments</h3>
+<table class="table table-hover">
+  <tr class="active">
+    <th>Assignment</th><th>Notebook</th>
+    <th>Solution</th>
+  </tr>
+  <tr>
+    <td>#1</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A1.ipynb">[notebook]</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#2</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A2.ipynb">[notebook]</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#3</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A3.ipynb">[notebook]</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#4</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A4.ipynb">[notebook]</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#5</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A5.ipynb">[notebook]</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+</div>
+
+<footer>
+    <div class="container">
+      <p class="copyright text-muted small">
+        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+          Creative Commons Attribution-ShareAlike 4.0 International License
+        </a>
+      </p>
+      <p class="copyright text-muted small">
+        Copyright <i class="far fa-copyright"></i> <a href="http://www.yoavram.com">Yoav Ram</a> 2018
+      </p>
+      <p class="copyright small">
+        Small is beautiful, but simple ain't easy
+      </p>
+    </div>
+  </footer>
+
+  <!-- jQuery and Boostrap -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
