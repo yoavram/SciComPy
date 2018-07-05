@@ -11,6 +11,10 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.header a {
+  color: #f4f3f3;
+  text-decoration: none;
+}
 h1 {
   font-size: 30px;
   font-weight: 300;
@@ -86,23 +90,6 @@ h2 {
   background-color: rgb(85,187,85);
   overflow: visible !important;
 }
-
-#convask {
-  position: absolute;
-  top: 360px;
-  right: 16px;
-  color: white;
-  font-size: 25px;
-  cursor: pointer;
-}
-
-#explain {
-  display: none;
-  background-color: #FF9;
-  border-radius: 10px;
-  margin: 10px;
-  padding: 10px;
-}
 .qq {
   color: #060;
 }
@@ -160,6 +147,7 @@ footer {
 p.copyright {
     margin: 5px 0 0;
 }
+
 .btn-course {
   margin-right: 50px;
 }
