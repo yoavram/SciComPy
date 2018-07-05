@@ -1,7 +1,6 @@
 # Scientific Computing with Python
 ## An introduction to scientific computing with Python with the Python programming language for computer science students
 
-## Syllabus
 Python is one of the leading programming languages for scientific
 research, data science, and machine learning. The course will
 familiarize students with the Python scientific stack, including NumPy,
@@ -12,12 +11,21 @@ to model bacterial growth, find stationary points for a predator-prey
 equation system, predict results of a tennis game, and plot a map of
 hurricane density.
 
-Read the syllabus in [Hebrew](syllabus.md)
+**חישוב מדעי בפייטון**
 
-Book:
+פייטון היא אחת משפות התכנות המובילות במחקר מדעי, data science, ולמידת
+מכונה. הקורס יכיר לסטודנטים את החבילות המדעיות המובילות, כוללNumPy,
+SciPy, Matplotlib, and Pandas , ואת אופן השימוש הנכון בהן לצורך חישוב
+מדעי. בכל שיעור תוצג בעיה מדעית, שיטה מקובלת לפתור אותה, ומימוש הפתרון
+בעזרת פייטון. למשל, יודגם כיצד למדל התפשטות של מחלות מדבקות, למצוא נקודת שבת של
+מערכת משוואות טורף-נטרף, לזהות אובייקט בתמונה, לחשב את סיכויי ההיכחדות של מוטציה נדירה, לנתח תוצאות של משחק טניס, ולהציג מפה של שכיחות
+סופות הוריקן.
+
+## Book
+
 [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io) by [Cyrille Rossant](http://cyrille.rossant.net/)
 
-## Classes
+## Syllabus
 
 **This is a temporary list**, official syllabus on course website
 
