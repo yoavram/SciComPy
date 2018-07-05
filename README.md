@@ -1,6 +1,8 @@
 # Scientific Computing with Python
 ## An introduction to scientific computing with Python with the Python programming language for computer science students
 
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/yoavram/libraries/SciComPy)
+
 ## Syllabus
 
 Python is one of the leading programming languages for scientific
