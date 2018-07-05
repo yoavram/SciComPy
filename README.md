@@ -1,6 +1,8 @@
 # Scientific Computing with Python
 ## An introduction to scientific computing with Python with the Python programming language for computer science students
 
+## Syllabus
+
 Python is one of the leading programming languages for scientific
 research, data science, and machine learning. The course will
 familiarize students with the Python scientific stack, including NumPy,
@@ -25,7 +27,7 @@ SciPy, Matplotlib, and Pandas , ואת אופן השימוש הנכון בהן �
 
 [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io) by [Cyrille Rossant](http://cyrille.rossant.net/)
 
-## Syllabus
+## Class plan
 
 **This is a temporary list**, official syllabus on course website
 
