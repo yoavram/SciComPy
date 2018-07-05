@@ -19,6 +19,8 @@ Book:
 
 ## Classes
 
+**This is a temporary list**, official syllabus on course website
+
 1. Reintroduction to Python
 1. Data analysis and visualization 1: [NumPy](notebooks/numpy.ipynb), [Matplotlib](notebooks/matplotlib.ipynb)
 1. Data analysis and visualization 2: [Pandas, Seaborn](notebooks/pandas-seaborn.ipynb)
