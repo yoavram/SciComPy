@@ -1,0 +1,18 @@
+title: Lecture 8
+---
+date: 2018-12-1
+---
+description:
+
+Deterministic continuous-time models for population growth <br>
+Model fitting <br>
+<small>
+Country population size / 
+microbial growth curves
+</small>
+---
+materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/population-growth.ipynb) <br>
+---
+name:
+
+Population dynamics 1 

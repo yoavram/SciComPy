@@ -1,0 +1,15 @@
+title: Lecture 11
+---
+date: 2018-12-29
+---
+description:
+
+Likelihood-free fitting of complex stochastic models <br>
+Markov chain Monte Carlo <br>
+<small>
+Animal social networks
+</small>
+---
+materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/ABC.ipynb) <br>
+---
+name: Approximate Bayesian computation

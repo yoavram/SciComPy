@@ -1,0 +1,19 @@
+title: Lecture 12
+---
+date: 2019-7-12
+---
+description:
+
+Feed forward networks <br>
+Convolutional neural networks <br>
+Keras <br>
+<small>
+Digit image recognition
+</small>
+---
+materials:
+
+[FFN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/FFN.ipynb) <br>
+[CNN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/CNN.ipynb) <br>
+---
+name: Classification with Neural networks

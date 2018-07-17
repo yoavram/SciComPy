@@ -1,0 +1,14 @@
+title: Lecture 6
+---
+date: 2018-11-18
+---
+description:
+
+Regression <br>
+Maximum likelihood <br>
+Gradient descent <br>
+<small>Tennis analytics</small>
+---
+materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/linear-model.ipynb) <br>
+---
+name: Generalized Linear models 1

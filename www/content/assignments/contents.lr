@@ -1,0 +1,77 @@
+title: Assignments
+---
+body:
+
+### Grades
+  
+- The final assignments grade will be the average of the 4 best grades out of the 5 assignments: `assignments_grade = sum(sorted(grades)[1:]) / 4`.
+- The final assignments grade will determine 40% of the course grade: `final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)`.
+- Specifically, you can submit only 4 assignments and still get the maximum 40 points.
+- Assignment grades will ve contained in `[20 * k for k in range(0, 6)]`.
+- To challenge assignment grades please visit the office hours.
+ 
+### Deadlines
+
+The assignments are due Saturdays at 23:59.
+The due dates for all assignments are on the <a href="calendar.html">calendar</a> page.
+
+#### Late Policy:
+
+- All students have 4 free late days for the semester.
+- You may not submit assignments after exausting these late days.
+- You may use up to 2 late days per assignment.
+- Assignments may not be submitted more than 2 days late.
+- Exceptions: reserve duty, pregnancy, illness, family affairs.
+- You may not use late days for the final project.
+
+### Submission intructions
+
+You will submit the assignments electronically through GitHub.
+
+**Do not email** us your assignments.
+
+### Collaboration Policy
+
+- We expect students to understand and complete their own assignments and to submit one assignment per student.
+- You **may** discuss the assignment with other students.
+- You **may not** share assignment code with other students.
+- You **may not** write assignment code together with other students.
+
+### Assignments
+
+<table class="table table-hover">
+  <tr class="active">
+    <th>Assignment</th><th>Notebook</th>
+    <th>Solution</th>
+  </tr>
+  <tr>
+    <td>#1</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A1.ipynb">notebook</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#2</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A2.ipynb">notebook</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#3</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A3.ipynb">notebook</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#4</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A4.ipynb">notebook</a>
+    </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>#5</td>
+    <td><a href="https://github.com/yoavram/SciComPy/blob/master/assignments/A5.ipynb">notebook</a>
+    </td>
+    <td></td>
+  </tr>
+</table>

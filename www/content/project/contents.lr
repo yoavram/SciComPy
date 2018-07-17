@@ -1,0 +1,35 @@
+title: Project
+---
+body:
+
+### Grades
+
+- The final project grade will determine 60% of the course grade:
+    `final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)`
+- Specifically, you cannot pass the course without submitting a project.
+- To challenge assignment grades please follow standard procedures of the School of Computer Science.
+
+
+### Deadlines
+
+The project submission deadline is at 23:59, the due date is on the [calendar](/calendar) page.
+
+
+#### Late Policy:
+
+- Late submissions are not allowed.
+- Exceptions: reserve duty, pregnancy, illness, family affairs.
+- You may not use late days for the final project.
+
+
+### Submission intructions
+
+You will submit the assignments electronically through GitHub.
+  
+**Do not email** us your project report.
+
+### Collaboration Policy
+
+- You **may** discuss your project with other students.
+- You **may not** share project code with other students.
+- You **may not** write project code together with other students.

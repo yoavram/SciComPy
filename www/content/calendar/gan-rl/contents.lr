@@ -1,0 +1,19 @@
+title: Lecture 13
+---
+date: 2019-1-13
+---
+description:
+
+Generative Adversarial Networks <br>
+Reinforcement learning <br>
+<small>
+Generating images /
+Playing computer games
+</small>
+---
+materials:
+
+[GAN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/GAN.ipynb) <br>
+[RL notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/reinforcement.ipynb) <br>
+---
+name: Advanced neural networks

@@ -1,82 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>IDC Herzlyia | Scientific Computing with Python</title>
-
-  <!-- bootstrap -->
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-
-  <!-- Google fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
-
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
-
-<body>
-
-<nav class="navbar navbar-expand-lg navbar-dark">
-    <a href="http://idc.ac.il/" class="navbar-brand d-none d-sm-block">
-      <img src="img/idc-logo.png"  height="30" alt="">
-      </a>
-    <a class="navbar-brand mb-0 h1" href="#">
-  Scientific Computing with Python
-</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-         <span class="navbar-text">
-    Autumn 2018
-  </span>
-
-    <ul class="navbar-nav mr-auto ">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">
-          <i class="far fa-home fa-fw" aria-hidden="true"></i>
-          Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a href="calendar.html" class="nav-link">
-          <i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>
-          Calendar 
-      </a> 
-      </li>
-      <li class="nav-item">
-        <a href="assignments.html" class="nav-link">
-          <i class="far fa-file-code fa-fw" aria-hidden="true"></i>
-          Assignments 
-      </a>
-    </li>
-    <li class="nav-item">
-    <a href="project.html" class="nav-link">
-      <i class="fas fa-project-diagram fa-fw" aria-hidden="true"></i>
-      Project 
-      </a>
-     </li>
-     <li class="nav-item">
-      <a href="https://notebooks.azure.com/yoavram/libraries/SciComPy" class="nav-link" target="_blank">
-        <i class="fab fa-microsoft fa-fw" aria-hidden="true"></i>
-      Azure library
-      </a>
-    </li>
-     <li class="nav-item">
-     <a href="http://github.com/yoavram/SciComPy/" class="nav-link" target="_blank">
-      <i class="fab fa-github fa-fw" aria-hidden="true"></i>
-      Course repo 
-      </a> 
-    </li>
- </ul>
-</div>
-</nav>
-
+{% extends "layout.html" %}
+{% block body %}
 
 <div class="sechighlight">
   <div class="container sec">
@@ -86,7 +9,7 @@
         <div class="instructor">
           <a href="http://www.yoavram.com" target="_blank">
             <div class="instructorphoto">
-              <img class="img-hover" src="img/yoavram.jpg">
+              <img class="img-hover" src="static/yoavram.jpg">
             </div>
             <div>Yoav Ram</div>
           </a>
@@ -122,18 +45,19 @@
     <div class="row">
       <div class="col-4">
         <h2>Class Time and Location</h2>
-        Autumn semester (October 2018 - February 2019).<br>
-        Lecture: Sunday 15:45-18:15<br>
-        Location TBD
+        Autumn semester <br>
+        October 2018 - February 2019<br>
+        Sunday 15:45-18:15<br>
+        <em>Location TBD</em>
       </div>
       <div class="col-4">
         <h2>Office Hours</h2>
-        TBD
+        <em>TBD</em>
       </div>
       <div class="col-4">
         <h2>Grading Policy</h2>
-        <a href="assignments.html">Assignments</a>: 40%<br>
-        <a href="project.html">Final Project</a>: 60%<br>
+        <a href="/assignments">Assignments</a>: 40%<br>
+        <a href="/project">Final Project</a>: 60%<br>
       </div>
     </div>
   </div>
@@ -183,11 +107,11 @@
     </div>
     <div class="qqa">
       <div class="qq">Can I work in groups for the Final Project?</div>
-      <div class="qa">Yes, in groups of up to three people.</div>
+      <div class="qa">Yes, in groups of up to three people. See more details about the <a href="/project">Final Project</a></div>
     </div>
     <div class="qqa">
       <div class="qq">I have a question about the class. What is the best way to reach the course staff?</div>
-      <div class="qa">Almost all questions should be asked on Piazza. If you have a sensitive issue you can email the instructors directly.</div>
+      <div class="qa">Almost all questions should be asked on <a href="http://piazza.com/xxx">Piazza</a>. If you have a sensitive issue you can email the instructor directly.</div>
     </div>
     <div class="qqa">
       <div class="qq">Can I combine the Final Project with another course?</div>
@@ -197,26 +121,4 @@
 </div>
 </div>
 
-  <footer>
-    <div class="container">
-      <p class="copyright text-muted small">
-        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-          Creative Commons Attribution-ShareAlike 4.0 International License
-        </a>
-      </p>
-      <p class="copyright text-muted small">
-        Copyright <i class="far fa-copyright"></i> <a href="http://www.yoavram.com">Yoav Ram</a> 2018
-      </p>
-      <p class="copyright small">
-        Small is beautiful, but simple ain't easy
-      </p>
-    </div>
-  </footer>
-
-  <!-- jQuery and Boostrap -->
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-
-</body>
-
-</html>
+{% endblock %}

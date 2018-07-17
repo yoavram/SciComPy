@@ -1,0 +1,14 @@
+title: Lecture 3
+---
+date: 2018-10-28
+---
+description:
+
+Discrete-time models for change in allele frequencies <br>
+<small>
+Haldane's model / Wright-Fisher model / Kimura's diffusion equation approximation
+</small>
+---
+materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/population-genetics.ipynb) <br>
+---
+name: Population Genetics
