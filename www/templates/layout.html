@@ -60,7 +60,7 @@
 
       {% for href, icon, title in navigation_bar %}
       <li class="nav-item {% if this.is_child_of(href) %} active{% endif %}">
-        <a href="{{ href|url }}" class="nav-link">
+        <a href="{{ href }}" class="nav-link">
           <i class="{{ icon }} fa-fw" aria-hidden="true"></i>
           {{ title }} 
           {% if this._path == '/' %}
