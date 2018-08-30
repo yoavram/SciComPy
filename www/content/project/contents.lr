@@ -2,18 +2,18 @@ title: Project
 ---
 body:
 
+Students will complete a short research project which uses methods and approaches discussed in the course. Code must be written in Python and projects must be submitted as a Jupyter notebook with text, code, results, and figures.
+
 ### Grades
 
 - The final project grade will determine 60% of the course grade:
     `final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)`
 - Specifically, you cannot pass the course without submitting a project.
-- To challenge assignment grades please follow standard procedures of the School of Computer Science.
-
+- To appeal the final project grade please submit a detailed appeal by email to the course instructor.
 
 ### Deadlines
 
-The project submission deadline is at 23:59, the due date is on the [calendar](/calendar) page.
-
+The final project submission deadline is at 23:59, the due date is on the [calendar](/calendar) page.
 
 #### Late Policy:
 
@@ -21,10 +21,9 @@ The project submission deadline is at 23:59, the due date is on the [calendar](/
 - Exceptions: reserve duty, pregnancy, illness, family affairs.
 - You may not use late days for the final project.
 
-
 ### Submission intructions
 
-You will submit the assignments electronically through GitHub.
+To be determined.
   
 **Do not email** us your project report.
 

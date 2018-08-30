@@ -2,13 +2,19 @@ title: Assignments
 ---
 body:
 
+Assignments will be published as Jupyter notebooks.
+Students will accomplish specific tasks by writing Python code in these notebooks, in a manner similar to the course notebooks.
+Assignment submissions will include the completed Jupyter notebooks.
+
+Solutions will be published on this page as soon as possible.
+
 ### Grades
   
 - The final assignments grade will be the average of the 4 best grades out of the 5 assignments: `assignments_grade = sum(sorted(grades)[1:]) / 4`.
 - The final assignments grade will determine 40% of the course grade: `final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)`.
 - Specifically, you can submit only 4 assignments and still get the maximum 40 points.
-- Assignment grades will ve contained in `[20 * k for k in range(0, 6)]`.
-- To challenge assignment grades please visit the office hours.
+- Assignment grades will be contained in `[20 * k for k in range(0, 6)]`.
+- To appeal assignment grades please submit a detailed appeal by email to the course instructor.
  
 ### Deadlines
 
@@ -17,16 +23,16 @@ The due dates for all assignments are on the <a href="calendar.html">calendar</a
 
 #### Late Policy:
 
-- All students have 4 free late days for the semester.
-- You may not submit assignments after exausting these late days.
-- You may use up to 2 late days per assignment.
+- All students have 4 free "late days" for the semester.
+- Submissions are timestamped by their calendar date in Israel; for a deadline on Saturday, a submission on Sunday at 00:20 (or even 00:02) counts for a full "late day".
+- You may not submit assignments after exausting these "late days".
 - Assignments may not be submitted more than 2 days late.
 - Exceptions: reserve duty, pregnancy, illness, family affairs.
-- You may not use late days for the final project.
+- You may not use "late days" for the final project.
 
 ### Submission intructions
 
-You will submit the assignments electronically through GitHub.
+To be determined.
 
 **Do not email** us your assignments.
 
@@ -38,6 +44,8 @@ You will submit the assignments electronically through GitHub.
 - You **may not** write assignment code together with other students.
 
 ### Assignments
+
+Some links will fail; this will be fixed towards the assignment release.
 
 <table class="table table-hover">
   <tr class="active">
