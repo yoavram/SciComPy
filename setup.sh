@@ -1,2 +1,4 @@
-conda install numpy matplotlib scipy sympy networkx numba ipywidgets seaborn pandas cartopy autograd tensorflow scikit-image scikit-learn statsmodels -y -q -c conda-forge
+conda update conda pip -y -q
+conda update numpy matplotlib scipy pandas seaborn statsmodels sympy tensorflow ipywidgets keras networkx numba scikit-image scikit-learn  -y -q
+conda install cartopy autograd -y -q
 pip install pyabc
