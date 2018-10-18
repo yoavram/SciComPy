@@ -1,10 +1,10 @@
 slidenumbers: true
 
-# [fit] Scientific Computing with Python
+# Scientific Computing with Python
 
-Yoav Ram
-IDC Herzliya
-Fall 2018
+### Yoav Ram
+### IDC Herzliya
+### Fall 2018
 
 ![](images/python.jpg)
 
