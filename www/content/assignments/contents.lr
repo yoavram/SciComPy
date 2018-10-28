@@ -30,11 +30,12 @@ The due dates for all assignments are on the <a href="calendar.html">calendar</a
 - Exceptions: reserve duty, pregnancy, illness, family affairs.
 - You may not use "late days" for the final project.
 
-### Submission intructions
+### Submission instructions
 
-To be determined.
-
-**Do not email** us your assignments.
+- Assignment should be submitted on [Moodle](http://moodle.idc.ac.il/2019/course/view.php?id=1900634).
+- Please submit each assignment in it's dedicated submission page.
+- Unless otherwise mentioned, please submit a single notebook file (`.ipynb`)  containing all your figures (i.e. use `%matplotlib inline`).
+- **Do not email** us your assignments.
 
 ### Collaboration Policy
 
