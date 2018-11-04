@@ -9,6 +9,9 @@ Discrete-time models for change in allele frequencies <br>
 Haldane's model / Wright-Fisher model / Kimura's diffusion equation approximation
 </small>
 ---
-materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/population-genetics.ipynb) <br>
+materials:
+
+[Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/population-genetics.ipynb) <br>
+[Book: Otto & Day](https://idc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=972IDC_INST_ALMA2152572240003105&context=L&vid=972IDC_INST_V1&search_scope=IDC&tab=default_tab&lang=iw_IL)
 ---
 name: Population Genetics
