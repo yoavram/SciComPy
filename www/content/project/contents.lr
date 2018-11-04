@@ -4,6 +4,10 @@ body:
 
 Students will complete a short research project which uses methods and approaches discussed in the course. Code must be written in Python and projects must be submitted as a Jupyter notebook with text, code, results, and figures.
 
+A project notebook with instructions will be available several days before the submission deadline.
+
+If you would like to submit a small research project based on your own research, please send us an email explaining what you would like to submit and why you think it is a good alternative to the final project. 
+
 ### Grades
 
 - The final project grade will determine 60% of the course grade:
@@ -11,9 +15,10 @@ Students will complete a short research project which uses methods and approache
 - Specifically, you cannot pass the course without submitting a project.
 - To appeal the final project grade please submit a detailed appeal by email to the course instructor.
 
-### Deadlines
+### Deadline
 
-The final project submission deadline is at 23:59, the due date is on the [calendar](/calendar) page.
+- The project notebook will be available on **February 11, early morning**.
+- The submission deadline is **February 14, 23:59**.
 
 #### Late Policy:
 
@@ -23,9 +28,10 @@ The final project submission deadline is at 23:59, the due date is on the [calen
 
 ### Submission intructions
 
-To be determined.
-  
-**Do not email** us your project report.
+- The project notebook should be submitted on [Moodle](http://moodle.idc.ac.il/2019/course/view.php?id=1900634).
+- Please submit the project notebook in its dedicated submission page.
+- Please submit a single notebook file (`.ipynb`) containing all your figures (i.e. use `%matplotlib inline`).
+- **Do not email** us your project report.
 
 ### Collaboration Policy
 

@@ -26,9 +26,11 @@
     <th scope="col">Course Materials</th>
   </tr>
   <tbody>        
-	{% for event in this.pagination.items %}
+	{% for event in this.children %}
 		<tr 
-    {% if not event.title.startswith('Lecture') %}class="table-warning"{% endif %}
+    {% if event.title.startswith('A') and event.title.endswith('Due') %}class="table-warning"
+    {% elif not event.title.startswith('Lecture') %}class="table-danger"
+    {% endif %}
     >
           <td scope="row">{{ event.title|e }}</td>
           <td>
