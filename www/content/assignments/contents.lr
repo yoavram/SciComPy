@@ -13,7 +13,6 @@ Solutions will be published on the [Calendar](/calendar) page as soon as possibl
 - The final assignments grade will be the average of the 4 best grades out of the 5 assignments: `assignments_grade = sum(sorted(grades)[1:]) / 4`.
 - The final assignments grade will determine 40% of the course grade: `final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)`.
 - Specifically, you can submit only 4 assignments and still get the maximum 40 points.
-- Assignment grades will be contained in `[20 * k for k in range(0, 6)]`.
 - To appeal assignment grades please submit a detailed appeal by email to the course instructor.
  
 ### Deadlines
