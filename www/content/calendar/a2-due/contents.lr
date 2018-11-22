@@ -4,7 +4,9 @@ date: 2018-11-18
 ---
 description: Statistics
 ---
-materials: [A2](https://github.com/yoavram/SciComPy/blob/master/assignments/A2.ipynb)
+materials: 
+[A2](https://github.com/yoavram/SciComPy/blob/master/assignments/A2.ipynb) <br>
+[Solution](https://github.com/yoavram/SciComPy/blob/master/solutions/A2.ipynb) <br>
 ---
 name:
 
