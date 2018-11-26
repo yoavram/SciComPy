@@ -5,16 +5,11 @@ date: 2018-11-25
 description:
 
 Binomial classification: Logistic model <br>
-Multinomial classification: Softmax model <br>
 <small>
-Titanic survival prediction / 
-Digit image recognition
+Titanic survival prediction
 </small>
 ---
-materials:
-
-[Logistic notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/logistic-model.ipynb) <br>
-[Softmax notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/softmax-model.ipynb) <br>
+materials: [Logistic notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/logistic-model.ipynb) <br>
 ---
 name:
 

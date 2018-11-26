@@ -4,16 +4,16 @@ date: 2019-1-13
 ---
 description:
 
+Multinomial classification: CNN <br> 
 Generative Adversarial Networks <br>
-Reinforcement learning <br>
+Keras: neural networks library <br>
 <small>
-Generating images /
-Playing computer games
+Digit image recognition and generation
 </small>
 ---
 materials:
 
+[CNN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/CNN.ipynb) <br>
 [GAN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/GAN.ipynb) <br>
-[RL notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/reinforcement.ipynb) <br>
 ---
-name: Advanced neural networks
+name: Convolutional neural networks

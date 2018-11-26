@@ -4,16 +4,15 @@ date: 2019-01-06
 ---
 description:
 
-Feed forward networks <br>
-Convolutional neural networks <br>
-Keras <br>
+Multinomial classification: Softmax model <br>
+Multinomial classification: FFN <br>
 <small>
 Digit image recognition
 </small>
 ---
 materials:
 
+[Softmax notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/softmax-model.ipynb) <br>
 [FFN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/FFN.ipynb) <br>
-[CNN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/CNN.ipynb) <br>
 ---
-name: Classification with Neural networks
+name: Feed forward networks
