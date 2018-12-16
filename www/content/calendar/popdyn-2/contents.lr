@@ -5,9 +5,9 @@ date: 2018-12-16
 description:
 
 Deterministic continuous-time models for species interactions <br>
-Stability analysis <br>
+Equilibria and stability analysis <br>
 Numerical integration <br>
-Automatic differentiation <br>
+SymPy: symbolic mathematics <br>
 <small>
 Lotka-Volterra predator-prey equations
 </small>
