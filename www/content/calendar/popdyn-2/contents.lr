@@ -12,7 +12,10 @@ SymPy: symbolic mathematics <br>
 Lotka-Volterra predator-prey equations
 </small>
 ---
-materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/lotka-volterra.ipynb) <br>
+materials:
+
+[Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/lotka-volterra.ipynb) <br>
+[Stability analysis](https://github.com/yoavram/SciComPy/blob/master/notebooks/stability.ipynb)
 ---
 name:
 
