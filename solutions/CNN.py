@@ -3,7 +3,7 @@ def myconvolve(x, y):
     m = y.size // 2
     x = np.pad(x, m, mode='constant', constant_values=0)
     return [ 
-        (x[i-m:i+m+1] * y).sum() 
+        x[i-m:i+m+1] @ y
         for i in range(m, x.size - m) 
     ]
 
