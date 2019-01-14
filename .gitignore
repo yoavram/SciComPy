@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+usernames*.txt
+emails*.txt
+*_submissions
