@@ -2,11 +2,11 @@ title: Project
 ---
 body:
 
+**[Project instructions](https://github.com/yoavram/SciComPy/raw/master/assignments/final.pdf)**
+
 Students will complete a short research project which uses methods and approaches discussed in the course. Code must be written in Python and projects must be submitted as a Jupyter notebook with text, code, results, and figures.
 
-A project notebook with instructions will be available several days before the submission deadline.
-
-If you would like to submit a small research project based on your own research, please send us an email explaining what you would like to submit and why you think it is a good alternative to the final project. 
+**Note:** If you would like to submit a small research project based on your own research, please send me an email explaining what you would like to submit and why you think it is a good alternative to the final project. 
 
 ### Grades
 
@@ -30,7 +30,7 @@ If you would like to submit a small research project based on your own research,
 
 - The project notebook should be submitted on [Moodle](http://moodle.idc.ac.il/2019/course/view.php?id=1900634).
 - Please submit the project notebook in its dedicated submission page.
-- Please submit a single notebook file (`.ipynb`) containing all your figures (i.e. use `%matplotlib inline`).
+- Please submit exactly two notebook files (`.ipynb`) containing all your figures (i.e. use `%matplotlib inline`).
 - **Do not email** us your project report.
 
 ### Collaboration Policy
