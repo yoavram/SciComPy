@@ -1,5 +1,6 @@
 # Scientific Computing with Python
 ## An introduction to scientific computing with Python with the Python programming language for computer science students
+## [Yoav Ram](http://www.yoavram.com)
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/yoavram/libraries/SciComPy) 
 [![Official website](https://img.shields.io/badge/Website-SciComPy-orange.svg)](https://scicompy.yoavram.com)
