@@ -1,4 +1,4 @@
-title: Lecture 2
+title: NumPy
 ---
 date: 2018-10-21
 ---
@@ -10,3 +10,5 @@ materials:
 [Matplotlib notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/matplotlib.ipynb) <br>
 ---
 name: Data analysis & visualization 1
+---
+_hidden: yes

@@ -1,6 +1,6 @@
-title: Lecture 4
+title: Lecture 1
 ---
-date: 2018-11-4
+date: 2020-03-22
 ---
 description:
 
@@ -9,4 +9,4 @@ Seaborn: statistical visualizations
 ---
 materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/pandas-seaborn.ipynb) <br>
 ---
-name: Data analysis & visualization 2
+name: Data analysis & visualization

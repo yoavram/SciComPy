@@ -1,10 +1,14 @@
 title: A5 Due
 ---
-date: 2019-1-20
+date: 2020-5-30
 ---
-description: Neural networks
+description:
+
+Stochastic continuous time models 
+
 ---
-materials: [A5](https://github.com/yoavram/SciComPy/blob/master/assignments/A5.ipynb) <br>
-[Solution](https://github.com/yoavram/SciComPy/blob/master/solutions/A5.ipynb) <br>
+materials: 
 ---
-name: Assignment #5 due 
+name:
+
+Assignment #5 due 

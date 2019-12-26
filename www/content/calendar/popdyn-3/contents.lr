@@ -1,6 +1,6 @@
-title: Lecture 10
+title: Lecture 8
 ---
-date: 2018-12-23
+date: 2020-05-24
 ---
 description:
 
@@ -11,8 +11,6 @@ Numba: JIT for scientific Python <br>
 Protein production model
 </small>
 ---
-materials:
-
-[Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/gillespie.ipynb)
+materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/gillespie.ipynb)
 ---
 name: Population dynamics 3
