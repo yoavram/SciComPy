@@ -10,15 +10,16 @@ Solutions will be published on the [Calendar](/calendar) page as soon as possibl
 
 ### Grades
   
-- The final assignments grade will be the average of the 4 best grades out of the 5 assignments: `assignments_grade = sum(sorted(grades)[1:]) / 4`.
-- The final assignments grade will determine 40% of the course grade: `final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)`.
-- Specifically, you can submit only 4 assignments and still get the maximum 40 points.
-- To appeal assignment grades please submit a detailed appeal by email to the course instructor.
+- The final assignments grade will be the average of the 6 best grades out of the 8 assignments: `assignments_grade = sum(sorted(grades)[2:]) / 6`. 
+- Assignment #0 will not be graded.
+- The final assignments grade will determine 20% of the course grade: `final_grade = int(0.2 * assignments_grade + 0.8 * project_grade)`.
+- Specifically, you can submit only 6 assignments and still get the maximum 20 points.
+- To appeal assignment grades, please write a detailed _printed_ appeal and submit it to the course instructor during office hours. Appeals will _not_ be accepted via forum or email.
  
 ### Deadlines
 
-The assignments are due Sundays at 23:59.
-The due dates for all assignments are on the <a href="calendar.html">calendar</a> page.
+The assignments are due Saturdays at 23:59.
+The due dates for all assignments are on the <a href="calendar.html">Calendar</a> page.
 
 #### Late Policy:
 
@@ -26,15 +27,17 @@ The due dates for all assignments are on the <a href="calendar.html">calendar</a
 - Submissions are timestamped by their calendar date in Israel; for a deadline on Saturday, a submission on Sunday at 00:20 (or even 00:02) counts for a full "late day".
 - You may not submit assignments after exausting these "late days".
 - Assignments may not be submitted more than 2 days late.
-- Exceptions: reserve duty, pregnancy, illness, family affairs.
+- Exceptions per IDC policy: reserve duty, pregnancy, illness, etc. See official IDC rules.
 - You may not use "late days" for the final project.
 
 ### Submission instructions
 
-- Assignment should be submitted on [Moodle](http://moodle.idc.ac.il/2019/course/view.php?id=1900634).
+- Assignments should be submitted on [Moodle]().
+- Your name **should not** be included in the notebook or in the filename.
+- Your submission should be named `AX.ipynb`, where `X` is replaced with the assignment number, e.g. `A3.ipynb` for assignment #3.
 - Please submit each assignment in its dedicated submission page.
 - Unless otherwise mentioned, please submit a single notebook file (`.ipynb`)  containing all your figures (i.e. use `%matplotlib inline`).
-- **Do not email** us your assignments.
+- **Do not email** your assignments.
 
 ### Collaboration Policy
 

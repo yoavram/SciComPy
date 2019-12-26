@@ -2,36 +2,36 @@ title: Project
 ---
 body:
 
-**[Project instructions](https://github.com/yoavram/SciComPy/raw/master/assignments/final.pdf)**
+Students will complete a home exam or a short research project that applies methods and approaches discussed in the course. Code must be written in Python and submitted as a single Jupyter notebook with text, code, results, and figures.
 
-Students will complete a short research project which uses methods and approaches discussed in the course. Code must be written in Python and projects must be submitted as a Jupyter notebook with text, code, results, and figures.
-
-**Note:** If you would like to submit a small research project based on your own research, please send me an email explaining what you would like to submit and why you think it is a good alternative to the final project. 
+**Note:** If you would like to submit a small research project, please email me a one-page summary of what you would like to do. 
 
 ### Grades
 
-- The final project grade will determine 60% of the course grade:
-    `final_grade = int(0.4 * assignments_grade + 0.6 * project_grade)`
-- Specifically, you cannot pass the course without submitting a project.
+- The final project grade will determine 80% of the course grade:
+    `final_grade = int(0.2 * assignments_grade + 0.8 * project_grade)`
+- Specifically, you _cannot_ pass the course without submitting a project.
 - To appeal the final project grade please submit a detailed appeal by email to the course instructor.
 
 ### Deadline
 
-- The project notebook will be available on **February 11, early morning**.
-- The submission deadline is **February 14, 23:59**.
+- The project notebook will be available on **July 20, early morning**.
+- The submission deadline is **July 23, 23:59**.
 
 #### Late Policy:
 
 - Late submissions are not allowed.
-- Exceptions: reserve duty, pregnancy, illness, family affairs.
+- Exceptions: reserve duty, pregnancy, illness, etc. See IDC official policy.
 - You may not use late days for the final project.
 
 ### Submission intructions
 
-- The project notebook should be submitted on [Moodle](http://moodle.idc.ac.il/2019/course/view.php?id=1900634).
+- The project notebook should be submitted on [Moodle]().
+- Your name **should not** be included in the notebook or in the filename.
+- The file name should simply be `final.ipynb`.
 - Please submit the project notebook in its dedicated submission page.
-- Please submit exactly two notebook files (`.ipynb`) containing all your figures (i.e. use `%matplotlib inline`).
-- **Do not email** us your project report.
+- Please submit exactly one notebook file (`.ipynb`) containing all your figures (i.e. use `%matplotlib inline`).
+- **Do not email** your project notebook.
 
 ### Collaboration Policy
 
