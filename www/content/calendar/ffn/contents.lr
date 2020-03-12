@@ -1,6 +1,6 @@
-title: Lecture 11
+title: Lecture 12
 ---
-date: 2020-06-14
+date: 2020-06-21
 ---
 description:
 
@@ -15,4 +15,4 @@ materials:
 [Softmax notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/softmax-model.ipynb) <br>
 [FFN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/FFN.ipynb) <br>
 ---
-name: Feed forward neural networks
+name: Feed Forward Neural networks

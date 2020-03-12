@@ -1,6 +1,6 @@
-title: Lecture 12
+title: CNN
 ---
-date: 2020-6-21
+date: 2018-1-1
 ---
 description:
 
@@ -10,8 +10,8 @@ Keras: neural networks library <br>
 Digit image recognition
 </small>
 ---
-materials:
-
-[CNN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/CNN.ipynb) <br>
+materials: [CNN notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/CNN.ipynb) <br>
 ---
 name: Convolutional neural networks
+---
+_hidden: yes
