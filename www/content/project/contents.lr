@@ -2,9 +2,8 @@ title: Project
 ---
 body:
 
-Students will complete a home exam or a short research project that applies methods and approaches discussed in the course. Code must be written in Python and submitted as a single Jupyter notebook with text, code, results, and figures.
-
-**Note:** If you would like to submit a small research project, please email me a one-page summary of what you would like to do. 
+Students will complete a small research project that applies methods and approaches discussed in the course.
+Code must be written in Python and submitted as a single Jupyter notebook with text, code, results, and figures.
 
 ### Grades
 
@@ -15,14 +14,14 @@ Students will complete a home exam or a short research project that applies meth
 
 ### Deadline
 
-- The project notebook will be available on **July 20, early morning**.
-- The submission deadline is **July 23, 23:59**.
+- The project notebook will be available on **TBD, early morning**.
+- The submission deadline is **TBD, 23:59**.
 
 #### Late Policy:
 
 - Late submissions are not allowed.
 - Exceptions: reserve duty, pregnancy, illness, etc. See IDC official policy.
-- You may not use late days for the final project.
+- You **may not** use late days for the final project.
 
 ### Submission intructions
 
@@ -35,6 +34,7 @@ Students will complete a home exam or a short research project that applies meth
 
 ### Collaboration Policy
 
+- _You **may** work in pairs_
 - You **may** discuss your project with other students.
-- You **may not** share project code with other students.
-- You **may not** write project code together with other students.
+- You **may not** share project code with other students (except your partner)
+- You **may not** write project code together with other students (except your partner).
