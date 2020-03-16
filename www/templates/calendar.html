@@ -2,14 +2,17 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
 	<h2>Calendar</h2>  
-  <div class="alert alert-primary" role="alert">
+  <div class="alert alert-danger" role="alert">
     <ul>
       <li>
-      <strong>Lecutres will begin <u>March 29</u>, the calendar will be updated soon.</strong>
+      <strong>Lecutres will begin <u>March 29</u></strong>.
       </li>
       <li>
-        <strong>Lectures will be given <u>online</u> until further notice.</strong>
+        <strong>Lectures will be given <u>online</u> until further notice</strong>.
       </li>  
+      <li>
+        <strong>Meanwhile, please do the <u>tutorials</u> below</strong>.
+      </li>
       <li>
         Course agenda is not final: notebooks are subject to change without notice.
       </li>
@@ -34,7 +37,7 @@
 	{% for event in this.children %}
 		<tr 
     {% if event.title.startswith('A') and event.title.endswith('Due') %}class="table-warning"
-    {% elif not event.title.startswith('Lecture') %}class="table-danger"
+    {% elif not event.title.startswith('Lecture') %}class="table-primary"
     {% endif %}
     >
           <td scope="row">{{ event.title|e }}</td>
