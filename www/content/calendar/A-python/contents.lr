@@ -2,12 +2,12 @@ title: A0 Due
 ---
 date: 2020-3-28
 ---
-description: 
+description:
 
-Python & NumPy<br>
+Python, NumPy, and Matplotlib <br>
 **No submission or grade**
 
 ---
-name: 
-
-Assignment #0 due
+name: Assignment #0 due
+---
+materials: [Assignment](https://github.com/yoavram/SciComPy/blob/master/assignments/A0.ipynb)
