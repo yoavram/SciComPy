@@ -134,6 +134,7 @@ slidenumbers: true
 
 - Interactive Jupyter notebooks
 - Use laptop/PC if you can
+- Lecture video link available on Moodle after lecture
 - Between lectures: review & prepare
 
 ![right](images/intro-bg1.jpg)
