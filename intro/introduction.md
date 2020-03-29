@@ -1,10 +1,10 @@
 slidenumbers: true
 
-# Scientific Computing with Python
+#[fit] Scientific Computing with Python
 
 ### Yoav Ram
 ### IDC Herzliya
-### Fall 2018
+### Spring 2020
 
 ![](images/python.jpg)
 
@@ -14,16 +14,26 @@ slidenumbers: true
 
 # Who I am
 
-- Dr. Yoav Ram (www.yoavram.com)
-- Research
- - Evolutionary biology
+- Yoav Ram (www.yoavram.com)
+- **Research:** Population Biology
+ - Ecology
+ - Evolution
  - Cultural evolution
-- Teaching, Fall semester
+ 
+
+
+![right 200%](images/bar.png)
+
+---
+
+# Who I am
+
+- Yoav Ram (www.yoavram.com)
+- **Teaching:**
  - This course
- - Intro to CS
-- Teaching, Spring semester
+ - Introduction to Computer Science
  - Computational Models in Biology
-- Father of 4 (+2 dogs) 
+
 
 ![right 200%](images/bar.png)
 
@@ -31,7 +41,7 @@ slidenumbers: true
 
 # [fit] Scientific Computing with Python
 
-- **Science:** models in natural & social sciences
+- **Science:** models in natural & social sciences (mostly biology)
 - **Computation:** numerical methods & algorithms for models
 - **Python:** popular programming language for scientific computing
 
@@ -44,6 +54,7 @@ slidenumbers: true
 - Continuous vs Discrete (time, state)
 - Mathematical vs Numerical (computational) analysis
 - Deterministic (climate) vs stochastic (weather)
+- Forecasting vs Inference
 
 ![right](images/william-bout-264826.jpg)
 
@@ -54,12 +65,11 @@ slidenumbers: true
 - Algorithms and methods
 - Interdisciplinary: 
  - CS
- - Stats
- - Calculus
- - Linear algebra
+ - Probability & Stats 
+ - Calculus & Linear algebra
  - Numerical analysis
 
-![original](images/markus-spiske-207946.jpg)
+![](images/markus-spiske-207946.jpg)
 
 ---
 
@@ -70,7 +80,7 @@ slidenumbers: true
 - Dynamic type system, strong polymorphism (duck typing)
 - Community-based development (PSF)
 - Other scientific programming languages:
- - MATLAB, Wolfram, R, Maple
+ - MATLAB, Wolfram, R, Maple, Julia
  
 ![](images/python.jpg)
 
@@ -79,18 +89,19 @@ slidenumbers: true
 # Administration
 
 - **Course website**: _[scicompy.yoavram.com](http://scicompy.yoavram.com)_
-- **Piazza**: announcements, Q&A, discussion
+- **Zoom**: lectures, office hours
+- **Piazza**: announcements, Q&A, discussion (no emails)
 - **Moodle**: assignment submission
-- **Azure**: lectures, development environment
+- **Azure**: lectures notebooks, development environment
 
-![right](images/kelly-sikkema-208098.jpg)
+![right](images/brendan-church-182747.jpg)
 
 ---
 
-# Questions during lecture
+# Questions: during lectures
 
-- Hands
-- Piazza (can be anonymous)
+- Raise hand in Zoom
+- Chat in zoom
 - During break
 - 5 minutes before and after lecture
 
@@ -98,10 +109,11 @@ slidenumbers: true
 
 ---
 
-# Questions between lectures
+# Questions: between lectures
 
-- Office hour (see website)
-- Piazza (can be anonymous)
+- Office hour
+ - Sun 14:30-15:30 on Zoom
+- Piazza forum
 
 ![right](images/nathaniel-tetteh-297656.jpg)
 
@@ -109,27 +121,25 @@ slidenumbers: true
 
 # Grading
 
-- 4/5 assignments
+- 6/8 assignments
 - Final project
-- A1 already online
-- Work alone
+- Work alone unless otherwise notified
+- _Late Policy_: see website
 
-![original](images/william-bout-264829.jpg)
+![](images/joao-silas-74207.jpg)
 
 ---
 
 # Lectures
 
-- Overview
 - Interactive Jupyter notebooks
-- Bring laptops if you can
-- Exercises: you can work together
+- Use laptop/PC if you can
 - Between lectures: review & prepare
 
 ![right](images/intro-bg1.jpg)
 
 ---
 
-# [fit] Let's begin
+# Questions!
 
-![original](images/header.jpg)
+![](images/header.jpg)
