@@ -10,4 +10,6 @@ Python, NumPy, and Matplotlib <br>
 ---
 name: Assignment #0 due
 ---
-materials: [Assignment](https://github.com/yoavram/SciComPy/blob/master/assignments/A0.ipynb)
+materials: 
+[Assignment](https://github.com/yoavram/SciComPy/blob/master/assignments/A0.ipynb) <br>
+[Solution](https://github.com/yoavram/SciComPy/blob/master/solutions/A0.ipynb)
