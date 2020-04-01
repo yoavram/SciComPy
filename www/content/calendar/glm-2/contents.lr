@@ -1,10 +1,11 @@
-title: Lecture 4
+title: Lecture 5
 ---
-date: 2020-05-03
+date: 2020-05-10
 ---
 description:
 
-Binomial classification: Logistic model <br>
+Binomial classification <br>
+Logistic model <br>
 <small>
 Titanic survival prediction
 </small>

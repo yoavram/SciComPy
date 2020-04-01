@@ -1,12 +1,11 @@
-title: Lecture 3
+title: Lecture 4
 ---
-date: 2020-04-26
+date: 2020-05-03
 ---
 description:
 
-Regression <br>
-Maximum likelihood <br>
-Gradient descent <br>
+Linear regression <br>
+Robust regression <br>
 <small>Tennis analytics</small>
 ---
 materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/linear-model.ipynb) <br>

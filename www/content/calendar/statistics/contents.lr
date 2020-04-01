@@ -4,10 +4,8 @@ date: 2020-04-19
 ---
 description:
 
-Hypothesis testing <br>
+Parameter estimation <br>
 Maximum likelihood <br>
-Correlation <br>
-Fitting distributions <br>
 ---
 materials:
 
@@ -15,4 +13,4 @@ materials:
 [Seeing Theory](http://seeingtheory.io/) <br>
 [Book: Think Stats](http://greenteapress.com/wp/think-stats-2e/) <br>
 ---
-name: Statistics
+name: Statistical inference

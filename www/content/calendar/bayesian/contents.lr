@@ -1,12 +1,11 @@
-title: Lecture 9
+title: Lecture 2
 ---
-date: 2020-06-07
+date: 2020-04-26
 ---
 description:
 
-Bayesian vs frequentists model fitting <br>
+Bayesian vs frequentist inference <br>
 Markov chain Monte Carlo <br>
-Robust linear regression <br>
 ---
 materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/bayesian.ipynb) <br>
 ---
