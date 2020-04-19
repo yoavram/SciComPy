@@ -5,3 +5,4 @@
 ~/anaconda3_501/bin/python -m pip install pyABC -q
 ~/anaconda3_501/bin/conda update tensorflow -y -q
 ~/anaconda3_501/bin/conda install h5py -y -q
+~/anaconda3_501/bin/conda install corner -y -q
