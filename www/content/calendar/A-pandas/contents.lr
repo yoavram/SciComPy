@@ -4,8 +4,11 @@ date: 2020-04-18
 ---
 description: Pandas & Seaborn
 ---
-materials: [Assignment](https://github.com/yoavram/SciComPy/blob/master/assignments/A1.ipynb)
----
 name:
 
 Assignment #1 due 
+---
+materials: [Assignment](https://github.com/yoavram/SciComPy/blob/master/assignments/A1.ipynb)
+<br>
+[Solution](https://github.com/yoavram/SciComPy/blob/master/solutions/A1.ipynb)
+
