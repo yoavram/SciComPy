@@ -4,8 +4,9 @@ date: 2020-05-03
 ---
 description:
 
-Linear regression <br>
-Robust regression <br>
+Normal linear regression <br>
+Poisson regression <br>
+Bayesian regression <br>
 <small>Tennis analytics</small>
 ---
 materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/linear-model.ipynb) <br>

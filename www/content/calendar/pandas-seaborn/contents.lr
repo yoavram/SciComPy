@@ -6,6 +6,7 @@ description:
 
 Pandas dataframes <br>
 Seaborn: statistical visualizations
+
 ---
 materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/pandas-seaborn.ipynb) <br>
 ---

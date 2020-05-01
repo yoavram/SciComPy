@@ -6,6 +6,8 @@ description:
 
 Bayesian vs frequentist inference <br>
 Markov chain Monte Carlo <br>
+emcee <br>
+
 ---
 materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/bayesian.ipynb) <br>
 ---
