@@ -7,7 +7,8 @@ description:
 Binomial classification <br>
 Logistic model <br>
 <small>
-Titanic survival prediction
+Titanic survival prediction <br>
+COVID-19 survival prediction <br>
 </small>
 ---
 materials: [Logistic notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/logistic-model.ipynb) <br>
