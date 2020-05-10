@@ -1,4 +1,4 @@
-
+# pure python version
 def _cross_entropy(X, Y, W, b):
     return -sum(
         -z*(1-y) - np.log(1+np.exp(-z)) 
