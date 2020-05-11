@@ -8,3 +8,4 @@
 ~/anaconda3_501/bin/conda install corner -y -q
 ~/anaconda3_501/bin/python -m pip install emcee -q
 ~/anaconda3_501/bin/conda install arviz -y -q
+~/anaconda3_501/bin/conda install sympy -y -q
