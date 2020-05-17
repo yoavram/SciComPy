@@ -4,8 +4,8 @@ date: 2020-05-23
 ---
 description: Discrete time models
 ---
-materials: 
----
 name:
 
 Assignment #4 due 
+---
+materials: [Assignment](https://github.com/yoavram/SciComPy/blob/master/assignments/A4.ipynb)
