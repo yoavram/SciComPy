@@ -2,8 +2,27 @@ title: Project
 ---
 body:
 
-Students will complete a small research project that applies methods and approaches discussed in the course.
-Code must be written in Python and submitted as a single Jupyter notebook with text, code, results, and figures.
+Students will complete a final project that applies methods and approaches discussed in the course.
+The project must submitted as a single Jupyter notebook with text, code (Python only), results, and figures.
+
+- The scope of the project should be similar to an average lecture or an assignment in the course.
+- You **must submit a proposal** (see below).
+- You may work on a project alone or in pairs (see below). The scope of the project in pairs is expected to be larger.
+- You may use methods we discussed in the course or new methods in the same spirit.
+- You may do a project that relates to your thesis or job, but it has to be something new that you haven't done yet.
+- You might be required to present a 5-10 min presentation of your project (using Jupyter and words, not PowerPoint).
+
+### Proposal
+
+- You **must** submit a proposal describing the project you plan to do.
+- The proposal should be in English, one page, font size 11, 1.5 space between lines, standard margins.
+- The following is a good template for a proposal. You don't have to follow it, but it is recommended. Each section should only include one or two paragraphs:
+ - _Introduction_: introduces the question you are asking and your hypothesis.
+ - _Models and Methods_: briefly describing the models, methods, or algorithms you plan to apply, their suitability to the question you're asking, and if you plan to implement them or use a package.
+ - _Expected Results_: what you expect the results to be (there could be more than a single expectation), and how the results will be interpreted to answer the question.
+ - _Schedule_: an estimation of when you will do the required tasks and how long they will take. If working in pairs, describe the division of labor.
+- Please indicate if you are interested in presenting a 5-10 min presentation of your project.
+- Note the deadline and late policy below;  late submission will either be declined entirely or will reduce the grade.
 
 ### Grades
 
@@ -14,19 +33,22 @@ Code must be written in Python and submitted as a single Jupyter notebook with t
 
 ### Deadline
 
-- The project notebook will be available on **TBD, early morning**.
-- The submission deadline is **TBD, 23:59**.
+- **Proposal: July 5, 2020, 23:59.**
+- **Project: August 15, 2020, 23:59.**
 
 #### Late Policy:
 
 - Late submissions are not allowed.
+- Even if late submissions are accepted by the instructor,  the grade will be penalised.
 - Exceptions: reserve duty, pregnancy, illness, etc. See IDC official policy.
 - You **may not** use late days for the final project.
 
-### Submission intructions
+### Submission instructions
 
-- The project notebook should be submitted on [Moodle]().
-- Your name **should not** be included in the notebook or in the filename.
+- Everything must be written in English
+- The submitted notebook should introduce the question and hypothesis, describe the models, methods, and algorithms, present the results and their interpretations with regard to the hypothesis (see Proposal).
+- The project notebook should be submitted on Moodle.
+- The names and emails of the authors **should** be included in the notebook.
 - The file name should simply be `final.ipynb`.
 - Please submit the project notebook in its dedicated submission page.
 - Please submit exactly one notebook file (`.ipynb`) containing all your figures (i.e. use `%matplotlib inline`).
@@ -34,7 +56,7 @@ Code must be written in Python and submitted as a single Jupyter notebook with t
 
 ### Collaboration Policy
 
-- _You **may** work in pairs_
+- You **may** work in pairs. State the names of both authors both on the proposal and on the notebook submission.
 - You **may** discuss your project with other students.
 - You **may not** share project code with other students (except your partner)
 - You **may not** write project code together with other students (except your partner).

@@ -1,4 +1,4 @@
-title: Lecture 2
+title: Lecture 3
 ---
 date: 2020-04-26
 ---
@@ -11,4 +11,4 @@ emcee <br>
 ---
 materials: [Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/bayesian.ipynb) <br>
 ---
-name: Bayesian inference
+name: Bayesian Inference

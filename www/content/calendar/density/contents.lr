@@ -1,0 +1,18 @@
+title: Lecture 12
+---
+date: 2020-6-28
+---
+description:
+
+Histograms <br>
+Kernel density estimation <br>
+Mixed models <br>
+Neural networks for density estimation
+
+---
+name: Density Estimation
+---
+materials:
+
+[Notebook](https://github.com/yoavram/SciComPy/blob/master/notebooks/density-estimation.ipynb)
+
