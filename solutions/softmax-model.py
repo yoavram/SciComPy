@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.linear_model import LogisticRegression
 
 
@@ -17,13 +16,3 @@ def predict(W, X):
     Yhat = softmax(Z)
     return Yhat
 
-def plot_categories(yhat, y):
-	fig, ax = plt.subplots()
-	ax.matshow(
-		np.concatenate((yhat, y)),
-		cmap='viridis'
-	)
-	ax.set_xticks(np.arange(10))
-	ax.set_yticks([0, 1])
-	ax.set_yticklabels(['pred', 'truth'])
-	return ax
