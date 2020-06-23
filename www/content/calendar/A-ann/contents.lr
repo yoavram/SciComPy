@@ -2,8 +2,14 @@ title: A7 Due
 ---
 date: 2020-7-4
 ---
-name:
-
-Assignment #7 due 
+name: Assignment #7 due 
 ---
-description: Artificial neural networks
+description:
+
+Artificial neural networks <br>
+Keras
+
+---
+materials: 
+
+[Assignment](https://github.com/yoavram/SciComPy/blob/master/assignments/A7.ipynb)
