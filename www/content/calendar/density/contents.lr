@@ -6,8 +6,8 @@ description:
 
 Histograms <br>
 Kernel density estimation <br>
-Mixed models <br>
-Neural networks for density estimation
+Mixture models <br>
+Conditional density estimation
 
 ---
 name: Density Estimation
