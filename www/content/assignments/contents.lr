@@ -10,7 +10,7 @@ Solutions will be published on the [Calendar](/calendar) page as soon as possibl
 
 ### Grades
   
-- The final assignments grade will be the average of the 5 best grades out of the 7 assignments: `assignments_grade = sum(sorted(grades)[2:]) / 7`. 
+- The final assignments grade will be the average of the 5 best grades out of the 7 assignments: `assignments_grade = sum(sorted(grades)[2:]) / 5`. 
 - Assignment #0 will not be graded.
 - The final assignments grade will determine 20% of the course grade: `final_grade = int(0.2 * assignments_grade + 0.8 * project_grade)`.
 - Specifically, you can submit only 5 assignments and still get the maximum 20 points.
