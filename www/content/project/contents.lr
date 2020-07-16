@@ -3,14 +3,15 @@ title: Project
 body:
 
 Students will complete a final project that applies methods and approaches discussed in the course.
-The project must submitted as a single Jupyter notebook with text, code (Python only), results, and figures.
+The project must submitted as a single Jupyter notebook with text, code (Python only), results, and figures that describe the problem, the methods, and the results.
+You must also submit a **5 minute presentation as a video recording**.
+In this recording you will present the problem, methods, and results in English.
 
 - The scope of the project should be similar to an average lecture or an assignment in the course.
 - You **must submit a proposal** (see below).
-- You may work on a project alone or in pairs (see below). The scope of the project in pairs is expected to be larger.
+- You may work on a project alone or in pairs (see below). The scope of the project in pairs is expected to be larger, the presentation should be 7 minutes, and both students must participate in the presentation.
 - You may use methods we discussed in the course or new methods in the same spirit.
 - You may do a project that relates to your thesis or job, but it has to be something new that you haven't done yet.
-- You might be required to present a 5-10 min presentation of your project (using Jupyter and words, not PowerPoint).
 
 ### Proposal
 
@@ -45,14 +46,15 @@ The project must submitted as a single Jupyter notebook with text, code (Python 
 
 ### Submission instructions
 
-- Everything must be written in English
+- Everything must be done in English
 - The submitted notebook should introduce the question and hypothesis, describe the models, methods, and algorithms, present the results and their interpretations with regard to the hypothesis (see Proposal).
-- The project notebook should be submitted on Moodle.
 - The names and emails of the authors **should** be included in the notebook.
 - The file name should simply be `final.ipynb`.
-- Please submit the project notebook in its dedicated submission page.
 - Please submit exactly one notebook file (`.ipynb`) containing all your figures (i.e. use `%matplotlib inline`).
-- **Do not email** your project notebook.
+- You must also submit a recorded presentation of your project (5 min, or 7 min for pairs). The presentation format is flexible: you can explain the notebook, you can use a PowerPoint presenation, or use another approach.
+- The recordings will be viewed only by the course staff.
+- The project should be submitted on Moodle.
+- **Do not email** your project.
 
 ### Collaboration Policy
 
